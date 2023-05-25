@@ -8,4 +8,5 @@
 - npm install -D tailwindcss
 - npm start 
 
-> Leave a star :)
+> Live Demo
+  https://sprightly-longma-d1e4ee.netlify.app/
