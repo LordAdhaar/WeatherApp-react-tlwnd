@@ -1,8 +1,11 @@
 # How to use the project
 
-- Clone
-- Install dependencies (npm i)
-- Get your API key and add to weatherService.js
-- Enjoy!!
+- Open terminal in your operating system
+- git clone git@github.com:LordAdhaar/WeatherApp-react-tlwnd.git
+- cd WeatherApp-react-tlwnd
+- Get your API key from https://openweathermap.org and add to weatherService.js
+- npm install 
+- npm install -D tailwindcss
+- npm start 
 
 > Leave a star :)
